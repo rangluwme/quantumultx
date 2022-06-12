@@ -1,3 +1,12 @@
+HOST-SUFFIX, mlsao.xyz
+
+HOST-SUFFIX, icloud-content.com.cn
+HOST-SUFFIX, icloud.com.cn
+
+HOST-SUFFIX, local
+
+ip6-cidr, fe80::/10
+
 # Apple
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,apple.co,Apple
@@ -93,7 +102,13 @@ DOMAIN-SUFFIX,tjupt.org,DIRECT
 DOMAIN-SUFFIX,totheglory.im,DIRECT
 
 GEOIP,CN,DIRECT
-
+IP-CIDR, 10.0.0.0/8, Direct mode
+IP-CIDR, 17.0.0.0/8, Direct mode
+IP-CIDR, 100.64.0.0/10, Direct mode
+IP-CIDR, 127.0.0.0/8, Direct mode
+IP-CIDR, 172.16.0.0/12, Direct mode
+IP-CIDR, 192.168.0.0/16, Direct mode
+IP-CIDR, 224.0.0.0/24, Direct mode
 
 IP-CIDR,1.0.1.0/24,DIRECT
 IP-CIDR,1.0.2.0/23,DIRECT

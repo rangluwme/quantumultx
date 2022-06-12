@@ -1,4 +1,25 @@
 
+HOST-SUFFIX, deepl.com
+HOST-SUFFIX, me
+HOST-KEYWORD, immetel 
+HOST-KEYWORD, mendeley 
+HOST-KEYWORD, mayiyun 
+HOST-SUFFIX, icu
+HOST-SUFFIX, in
+HOST-SUFFIX, sg
+HOST-SUFFIX, edu
+HOST-KEYWORD, mlsao
+HOST-SUFFIX, jsdelivr.net
+HOST-SUFFIX, cloud
+HOST-SUFFIX, xyz
+HOST-SUFFIX, fastgit.org
+HOST-SUFFIX, edu
+HOST-SUFFIX, uk
+
+HOST-SUFFIX, mtt.org
+HOST-SUFFIX, tw
+
+
 HOST-SUFFIX,gateway.icloud.com
 HOST-SUFFIX,news-edge.apple.com
 HOST-SUFFIX,news-events.apple.com
