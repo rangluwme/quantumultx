@@ -1,8 +1,8 @@
 HOST-SUFFIX, mlsao.xyz
-
+HOST-SUFFIX, mlsao.xyz
 HOST-SUFFIX, icloud-content.com.cn
 HOST-SUFFIX, icloud.com.cn
-
+HOST-SUFFIX, cc98.org
 HOST-SUFFIX, local
 
 ip6-cidr, fe80::/10
@@ -12,10 +12,10 @@ DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX.co
 DOMAIN-SUFFIX.com
 DOMAIN-SUFFIX.com.cn
-DOMAIN-SUFFIX-cloudkit.com
-DOMAIN-SUFFIX-livephotoskit.com
-DOMAIN-SUFFIX-mapkit.com
-DOMAIN-SUFFIXmusic.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple.music.com
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,cdn-apple.com
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-KEYWORD.com.akadns.net
 DOMAIN-KEYWORD.com.edgekey.net
 DOMAIN-KEYWORD-support.akadns.net
-DOMAIN-KEYWORD,icloud.com.akadns.net
+
 
 # China Area Network
 DOMAIN-SUFFIX,flyert.com
