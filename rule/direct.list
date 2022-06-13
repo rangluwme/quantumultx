@@ -1,11 +1,9 @@
 HOST-SUFFIX, mlsao.xyz
-HOST-SUFFIX, mlsao.xyz
 HOST-SUFFIX, icloud-content.com.cn
 HOST-SUFFIX, icloud.com.cn
 HOST-SUFFIX, cc98.org
 HOST-SUFFIX, local
 
-ip6-cidr, fe80::/10
 
 # Apple
 DOMAIN-SUFFIX,aaplimg.com
@@ -93,6 +91,7 @@ DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 
 GEOIP,CN
+ip6-cidr, fe80::/10
 IP-CIDR, 10.0.0.0/8
 IP-CIDR, 17.0.0.0/8
 IP-CIDR, 100.64.0.0/10
