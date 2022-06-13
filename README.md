@@ -1,7 +1,6 @@
-# Quantumultx Rules and Rewrite
-https://cdn.jsdelivr.net/gh/rangluwme/quantumultx@master/rule/direct.list
-https://cdn.jsdelivr.net/gh/rangluwme/quantumultx@master/rule/proxy.list
-https://cdn.jsdelivr.net/gh/rangluwme/quantumultx@master/rule/reject.list
+https://raw.githubusercontent.com/rangluwme/quantumultx/main/rule/reject.list
+https://raw.githubusercontent.com/rangluwme/quantumultx/main/rule/direct.list
+https://raw.githubusercontent.com/rangluwme/quantumultx/main/rule/proxy.list
 
-https://cdn.jsdelivr.net/gh/rangluwme/quantumultx@master/rewrite/rewrite.conf
+https://raw.githubusercontent.com/rangluwme/quantumultx/main/rewrite/rewrite.list
 
