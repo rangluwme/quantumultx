@@ -24,7 +24,11 @@ HOST-SUFFIX, dk
 
 
 
-
+geoip, tw
+geoip, hk
+host-keyword, github
+geoip, uk
+geoip, us
 HOST-KEYWORD, amazon
 HOST-KEYWORD, awsstatic
 HOST-KEYWORD, cloudfront
