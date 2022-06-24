@@ -3,6 +3,7 @@ HOST-SUFFIX, icloud-content.com.cn
 HOST-SUFFIX, icloud.com.cn
 HOST-SUFFIX, cc98.org
 HOST-SUFFIX, local
+host-keyword, microsoft
 
 
 # Apple
